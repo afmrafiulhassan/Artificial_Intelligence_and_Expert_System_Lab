@@ -3,6 +3,7 @@
 text_line = input("Enter string: ")
 words = text_line.split(" ")
 
+
 max_word = min_word = words[0]
 max_len = -100
 min_len = 100
